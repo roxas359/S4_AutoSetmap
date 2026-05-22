@@ -56,7 +56,4 @@ Auto macro script for transforming map-keys into fully configured set maps
 - Order does not matter, but arguments must come AFTER the mapkey.  
 - These arguments always take priority over settings from the config menu.
 
----
 
-## EXAMPLE LIST FOR 'mapkeys.txt'
----
