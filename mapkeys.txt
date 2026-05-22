@@ -1,0 +1,7 @@
+98B1M840
+JSH2THH0
+JSHVNTB0(wall=short)
+3SHUSNT0(goods=high)(wall=short)(spec=long)
+3NBCP0G0(goods=low)
+BOB0I4U0(goods=medium)(spec=long)
+NSHVNTB0(wall=long)(goods=low)
