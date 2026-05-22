@@ -3,7 +3,7 @@ Give me a mapkey and i will create a Setmap with your restrictions
 
 ## 📥 Download
 
-👉 [Download S4_AutoSetmap.zip](https://github.com/roxas359/S4_AutoSetmap/releases/latest)
+[![Download](https://img.shields.io/badge/Download-S4_AutoSetmap.zip-brightgreen)](https://github.com/roxas359/S4_AutoSetmap/raw/main/S4_AutoSetmap.zip)
 
 ## 🖼️ Preview
 
