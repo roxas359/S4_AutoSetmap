@@ -5,6 +5,12 @@ Give me a mapkey and i will create a Setmap with your restrictions
 
 👉 [Download S4_AutoSetmap.zip](https://github.com/roxas359/S4_AutoSetmap/releases/latest)
 
+## 🖼️ Preview
+
+<p align="center">
+  <img src="assets/menu.png" width="600"/>
+</p>
+
 # README:
 
 Auto macro script for transforming map-keys into fully configured set maps  
