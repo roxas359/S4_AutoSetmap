@@ -1,13 +1,19 @@
 # Settlers 4_AutoSetmap
 Give me a mapkey and i will create a Setmap with your restrictions
 
+## ⚠️ Important Notice
+
+This program requires administrator rights to function properly.
+
+When starting the application, please allow it to run as administrator if prompted by Windows User Account Control (UAC).
+
 Windows Defender or SmartScreen may warn about the executable because it is an unsigned automation tool packaged with PyInstaller.
 
 This is a hobby/open-source utility and the repository contents are publicly visible for inspection.
 
 ## 📥 Download
 
-[![Download](https://img.shields.io/badge/Download-S4_AutoSetmap.zip-brightgreen)](https://github.com/roxas359/S4_AutoSetmap/raw/main/S4_AutoSetmap.zip)
+[![Download](https://img.shields.io/badge/Download-S4_AutoSetmap.zip-brightgreen)](https://github.com/roxas359/S4_AutoSetmap/raw/main/S4_AutoSetmap.7z)
 
 ## 🖼️ Preview
 
