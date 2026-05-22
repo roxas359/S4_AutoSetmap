@@ -42,6 +42,6 @@ Auto macro script for transforming map-keys into fully configured set maps (incl
 
 - You can also specify goods and spectator-positioning in `mapkeys.txt`: `(goods=low/medium/high)` and `(spec=short/long)`
 
-- The argument ordr does not matter, but arguments must come AFTER the mapkey. These arguments always take priority over settings from the config menu.
+- The argument order does not matter, but arguments must come AFTER the mapkey. These arguments always take priority over settings from the config menu.
 
 
