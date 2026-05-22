@@ -36,7 +36,7 @@ Auto macro script for transforming map-keys into fully configured set maps (incl
 
 - Maps mirrored across BOTH DIAGONALS do not have a clear defined team distribution / PT-Wall-orientation. The user has to decide that.
 
-- You can mark these maps in the `mapkeys.txt` file with (wall=short)` or `(wall=long)` before starting the process.
+- You can mark these maps in the `mapkeys.txt` file with `(wall=short)` or `(wall=long)` before starting the process.
 
 - If no orientation is specified, it will be requested during the process whenever such a map is detected. For long map lists, it is recommended to define it beforehand.
 
