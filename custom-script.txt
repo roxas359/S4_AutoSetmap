@@ -1,0 +1,17 @@
+-- PASTE YOUR LUA-MAP-SCRIPT HERE
+
+--To ensure that your script works with the generator, the following placeholders must be inserted into the corresponding locations beforehand:
+
+--welcomemessage = {WELCOME}
+--mapsize = {MAPSIZE}
+--longdiagonal = {LONGDIAGONAL}
+--shortdiagonal = {SHORTDIAGONAL}
+--team1 = {TEAM1}
+--team2 = {TEAM2}
+--spectator = {SPECTATOR}
+--pt = {PT}
+--saboPt = {SABOPT}
+--vehiclePt = {VEHICLEPT}
+--blockTowering = {BLOCKTOWER_TIME}
+--blockToweringAxis = {BLOCKTOWER_AXIS}
+--SU.Game.SetFightingStrengthBaseValuePerNumberOfPlayers({PLAYER_COUNT})

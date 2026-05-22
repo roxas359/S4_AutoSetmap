@@ -1,0 +1,22 @@
+{
+    "SCAN_MODE": "all",
+    "EDITOR_LANGUAGE": "de",
+    "DELAY_BASE": 0.08,
+    "DELAY_BASE_2": 0.2,
+    "SCRIPT_BUTTON_OFFSET_X": 0,
+    "SCRIPT_BUTTON_OFFSET_Y": 0,
+    "PT": 60,
+    "SABOPT": 75,
+    "BLOCKTOWER_TIME": 2,
+    "MAP_FILE_PREFIX": "S4_League",
+    "MAP_FILE_SEGMENTS": [
+        "mapkey",
+        "teamlogic"
+    ],
+    "GOODS_LEVEL": "high",
+    "SPEED_MODE": "normal",
+    "WELCOME_MESSAGE": "\"Hellolo!\"",
+    "LUA_SCRIPT_MODE": "su-script",
+    "VEHICLEPT": 60,
+    "SPEC_POSITION_MODE": "inversewall"
+}
