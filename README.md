@@ -1,6 +1,10 @@
 # Settlers 4_AutoSetmap
 Give me a mapkey and i will create a Setmap with your restrictions
 
+## 📥 Download
+
+👉 [Download S4_AutoSetmap.zip](https://github.com/roxas359/S4_AutoSetmap/releases/latest)
+
 # README:
 
 Auto macro script for transforming map-keys into fully configured set maps  
