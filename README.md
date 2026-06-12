@@ -13,7 +13,7 @@ This is a hobby/open-source utility and the repository contents are publicly vis
 
 ## 📥 Download
 
-[![Download](https://img.shields.io/badge/Download-S4_AutoSetmap.zip-brightgreen)](https://github.com/roxas359/S4_AutoSetmap/raw/main/S4_AutoSetmap_V02.7z)
+[![Download](https://img.shields.io/badge/Download-S4_AutoSetmap_V02.zip-brightgreen)](https://github.com/roxas359/S4_AutoSetmap/raw/main/S4_AutoSetmap_V02.7z)
 
 ## 🖼️ Preview
 
