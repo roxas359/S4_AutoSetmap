@@ -1,6 +1,12 @@
 # Settlers 4_AutoSetmap
 Give me a mapkey and i will create a Setmap with your restrictions
 
+> [!IMPORTANT]
+> **This is an old version (V02).** The current version with source code lives in
+> **[roxas359/S4-Setmap-Generator](https://github.com/roxas359/S4-Setmap-Generator)**, the download is under
+> [Releases](https://github.com/roxas359/S4-Setmap-Generator/releases/latest).
+
+
 ## ⚠️ Important Notice
 
 This program requires administrator rights to function properly.
